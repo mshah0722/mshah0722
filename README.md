@@ -1,4 +1,4 @@
 👋 Hi, I’m Malhar Shah  
-🎓 I am a fourth-year undergraduate student at the University of Toronto  
-👨‍🎓️ Majoring in Computer Engineering with a minor in Artificial Intelligence  
+🖥️ I am Software Developer at IBM  
+🎓 I have a Bachelor of Applied Science in Computer Engineering from the University of Toronto with a minor in Artificial Intelligence  
 📫 How to reach me: malhar.shah@mail.utoronto.ca  
